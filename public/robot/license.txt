@@ -1,0 +1,11 @@
+Model Information:
+* title:	Little cute robot
+* source:	https://sketchfab.com/3d-models/little-cute-robot-cbb370b40af149dd856bac5f0374af60
+* author:	Poll_Creations (https://sketchfab.com/PollStudios)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Little cute robot" (https://sketchfab.com/3d-models/little-cute-robot-cbb370b40af149dd856bac5f0374af60) by Poll_Creations (https://sketchfab.com/PollStudios) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
